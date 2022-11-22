@@ -2,14 +2,29 @@
 #include<vector>
 #include<queue>
 #define MAX 100
-typedef char Exper;
-
 using namespace std;
 
 typedef struct {
     Exper head[MAX];
     int v;
 }Graph;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 typedef struct {
     int num;
@@ -94,19 +109,5 @@ int main() {
 
     return 0;
 }
-/*
-8
-1 2 3 4 5 6 7 8
-1 2 12
-1 5 2
-2 8 5
-2 6 3
-6 7 7
-4 7 8
-3 4 8
-3 5 2
-3 6 4
-4 5 10
-*/
 
 
