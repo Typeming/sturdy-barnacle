@@ -40,3 +40,29 @@
 	1. 分时复用
 	2. 保存复用
 
+编号/游戏名称/销量/价格
+---/:--:/:--:/---:
+1/刺客信条/10000/100$
+2/原神/152000/1$
+
+`printf("hello");`
+
+(```)
+	fucntion(){
+		printf("hello");
+	}
+(```)
+
+
+```c
+	#include<stdio.h>
+	int main(){
+		printf("hello");
+		return 0;
+	}
+```
+
+```java
+	System.out.print("hello");
+```
+
